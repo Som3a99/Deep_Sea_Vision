@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+torch
+ultralytics
+numpy
+av
+streamlit-webrtc
+twilio
+psutil
+gputil
+python-dotenv
